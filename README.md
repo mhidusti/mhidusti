@@ -1,6 +1,4 @@
 
-Here's the English version of your GitHub README:
-
 🌟 Mohadeseh - Full Stack Developer
 Hi there! 👋 I'm Mohadeseh, a full-stack developer passionate about building beautiful, scalable, and user-friendly web applications. I'm always eager to learn new technologies and solve complex challenges. 🚀
 
