@@ -21,10 +21,8 @@ Git & GitHub, VS Code, Postman, Insomnia
 
 ---
 
-📱 Connect with Me:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-pink)](https://www.instagram.com/mohdse.doosti?igsh=MTQ0aGtnN3p3MTZreg==)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/Mewewoa)
+
 
 ---
 
@@ -79,5 +77,19 @@ Performance Optimization: Using caching (Redis) and improving API response times
 </p>
 
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/2646423/screenshots/15410520/media/298871f5b703b205fc9cd73ebda30c2c.gif" 
+       width="300" 
+       alt="girl coding" />
+</p>
 
+<h3 align="center">Coding with 💚 and ☕</h3>
+
+
+
+📱 Connect with Me:
+<p align="center">
+  <a href="https://instagram.com/djangoqueen](https://www.instagram.com/djangositee?igsh=MTU2czl3ZzA2OGMxaA==" target="_blank"><img src="https://img.shields.io/badge/Instagram-DjangoQueen-pink?style=for-the-badge&logo=instagram" /></a>
+  <a href="[mailto:your@email.com](https://myaccount.google.com/email?gar=WzEyMF0&continue=https%3A%2F%2Fmyaccount.google.com%2Fpersonal-info%3Fgar%3DWzEyMF0%26hl%3Den%26utm_source%3DOGB%26utm_medium%3Dact)"><img src="https://img.shields.io/badge/Email-Write%20me-lightpink?style=for-the-badge&logo=gmail" /></a>
+</p>
 
