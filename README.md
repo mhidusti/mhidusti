@@ -1,12 +1,12 @@
 <h1 align="center">
-  Hi, I'm mohadese
-  <img src="https://i.imgur.com/nq3ct5a.gif" width="45" />
+  Hi, I'm Mohadese
+
 </h1>
 
 <h3 align="center">A passionate Django Developer and REST API Creator 🐍✨</h3>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="350" width="550" />
+  <img src="https://i.imgur.com/GDePScu.gif" height="350" width="550" />
 </p>
 
 
@@ -23,7 +23,6 @@
 - Deployment on platforms like **Vercel**, **Render**, and **Chabokan**
 
 🔍 Currently working on:
-- A custom eCommerce project with Django + API for a cosmetics brand 💄  
 - Learning advanced Django security & performance tips  
 - Playing around with **AI tools + Python integration** (future vibes 🤖)
 
