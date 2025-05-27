@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Django Developer and REST API Creator 🐍✨</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/GDePScu.gif" height="350" width="550" />
+  <img src="https://i.imgur.com/GDePScu.gif" height="450" width="550" />
 </p>
 
 
