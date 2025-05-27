@@ -1,98 +1,60 @@
-<h1 align="center">Hello Dear who am i? mohadese doosti</h1>
-<h3 align="center">fullstack Developer From IRAN</h3>
+<h1 align="center">
+  Hi, I'm Mohadese
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGExNzhmMGNkOWZlZWZjN2ZlNWM2NjUxMmI4NGM0ZTdmMDJhZDgxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/NFGhfDRVAml9khfvzP/giphy.gif" width="45" />
+</h1>
 
+<h3 align="center">A passionate Django Developer and REST API Creator 🐍✨</h3>
 
-Hi there! 👋 I'm Mohadeseh, a full-stack developer passionate about building beautiful, scalable, and user-friendly web applications. I'm always eager to learn new technologies and solve complex challenges. 🚀
+<p align="center">
+  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="350" width="550" />
+</p>
 
-🛠 My Skills
-Frontend
-Languages: HTML, CSS, JavaScript, TypeScript
-Libraries & Frameworks: React.js, Next.js, Redux, TailwindCSS, Bootstrap
-Tools: Webpack, Vite, Figma
-Backend
-Languages: Python, JavaScript, PHP
-Frameworks: Django, Node.js (Express.js), Laravel
-Databases: PostgreSQL, MySQL, MongoDB
-DevOps
-Docker, Nginx, CI/CD (GitHub Actions)
-Experience with AWS and DigitalOcean
-Development Tools
-Git & GitHub, VS Code, Postman, Insomnia
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
+# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp; About Me:
+
+🚀 Passionate **Back-end Developer** specialized in **Django & Python**.  
+🔥 I love building secure, scalable and clean web apps powered by **Django REST Framework (DRF)** and stunning frontends.
+
+💡 I have hands-on experience in:
+- Building **RESTful APIs** using Django REST Framework  
+- Developing full-stack apps with Django, HTML/CSS, JS, Tailwind  
+- Authentication systems (JWT, Session) and working with third-party integrations  
+- Designing relational databases using **PostgreSQL** and **SQLite**  
+- Deployment on platforms like **Vercel**, **Render**, and **Chabokan**
+
+🔍 Currently working on:
+- A custom eCommerce project with Django + API for a cosmetics brand 💄  
+- Learning advanced Django security & performance tips  
+- Playing around with **AI tools + Python integration** (future vibes 🤖)
+
+💼 Open to collaborations on **Django web apps, API development, or freelance projects**
+
+📬 Reach me at: **mhidusti@gmail.com**
 
 ---
 
+<h1 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My LeetCode Stats</h1>
 
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/your-github-username?animation=true" />
+</p>
 
 ---
 
-🛠 My Languages and Tools:
-![HTML5](https://img.shields.io/badge/-HTML5-orange)
-![CSS3](https://img.shields.io/badge/-CSS3-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)
-![Python](https://img.shields.io/badge/-Python-blue) 
-Complementary Skills
-Security Concepts in Django: Implementing mechanisms like CSRF and authentication.
-Test-Driven Development (TDD): Writing unit and integration tests in Django.
-Performance Optimization: Using caching (Redis) and improving API response times.
+<h1 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Skills</h1>
 
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,html,css,tailwind,js,react,postgres,mysql,sqlite,git,github,figma,vscode&perline=9)](https://skillicons.dev)
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
-</p>
+## 🏆 GitHub Trophies
 
+![](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/2646423/screenshots/15410520/media/298871f5b703b205fc9cd73ebda30c2c.gif" 
-       width="300" 
-       alt="girl coding" />
+  💖 Made with Python & love by moa | Powered by Django 🐍
 </p>
-
-<h3 align="center">Coding with 💚 and ☕</h3>
-📱 Connect with Me:
-
-<p align="center">
-    <a href="https://www.instagram.com/djangoqueen" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-DjangoQueen-pink?style=for-the-badge&logo=instagram" />
-    </a>
-    <a href="mailto:your@email.com">
-        <img src="https://img.shields.io/badge/Email-Write%20me-lightpink?style=for-the-badge&logo=gmail" />
-    </a>
-</p>
-
 
