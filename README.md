@@ -22,9 +22,6 @@
 - Designing relational databases using **PostgreSQL** and **SQLite**  
 - Deployment on platforms like **Vercel**, **Render**, and **Chabokan**
 
-🔍 Currently working on:
-- Learning advanced Django security & performance tips  
-- Playing around with **AI tools + Python integration** (future vibes 🤖)
 
 💼 Open to collaborations on **Django web apps, API development, or freelance projects**
 
