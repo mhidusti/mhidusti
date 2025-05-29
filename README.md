@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Django Developer and REST API Creator 🐍✨</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/GDePScu.gif" height="450" width="550" />
+  <img src="https://i.imgur.com/GDePScu.gif" height="120" width="150" />
 </p>
 
 
@@ -31,22 +31,11 @@
 📬 Reach me at: **mhidusti@gmail.com**
 
 ---
-<h1 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My LeetCode Stats</h1>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mhidusti?animation=true" />
-</p>
-
 
 
 <h1 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Skills</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,html,css,tailwind,js,react,postgres,mysql,sqlite,git,github,figma,vscode&perline=9)](https://skillicons.dev)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
