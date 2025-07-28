@@ -22,11 +22,11 @@ I specialize in building clean, scalable, and secure web applications powered by
   💬 Connect with me:
 </h3>
 <p align="center">
-  <a href="[https://www.linkedin.com/in/mohadese](https://www.linkedin.com/in/mohadese-doosti-2a8644373/)" target="_blank">
+  <a href="https://www.linkedin.com/in/mohadese-doosti-2a8644373/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
+</p>
 
----
 
 
 
