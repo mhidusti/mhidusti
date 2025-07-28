@@ -32,7 +32,8 @@
 
 <h1 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Skills</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,html,css,tailwind,js,react,postgres,mysql,sqlite,git,github,figma,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,html,css,tailwind,js,react,postgres,mysql,sqlite,git,github,figma,vscode&perline=9&theme=light)](https://skillicons.dev)
+
 
 ---
 
