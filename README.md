@@ -28,8 +28,5 @@ I specialize in building clean, scalable, and secure web applications powered by
 </p>
 
 
-
-
-
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,react,postgres,mysql,git,github,figma,vscode&perline=13)](https://skillicons.dev)
 
