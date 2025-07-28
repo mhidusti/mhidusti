@@ -15,9 +15,19 @@ I specialize in building clean, scalable, and secure web applications powered by
 ---
 
 
-<h1 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Skills</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,,html,css,,js,docker,mysql,sqlite,github,figma,vscode&perline=9&theme=light)](https://skillicons.dev)
+
+
+<h3 align="center">
+  💬 Connect with me:
+</h3>
+<p align="center">
+  <a href="[https://www.linkedin.com/in/mohadese](https://www.linkedin.com/in/mohadese-doosti-2a8644373/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+
+---
+
 
 
 
