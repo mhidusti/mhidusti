@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/575e9ee0-65df-41aa-97c8-4d8584761373" width="100%" alt="Mohadese Doosti — Developer Profile Banner" />
+ <img src="./moa.png" width="100%" alt="Mohadese Doosti — Developer Profile Banner" />
 
   <br/>
 
