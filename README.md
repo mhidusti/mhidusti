@@ -8,12 +8,10 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=8B9EFF&center=true&vCenter=true&width=700&lines=Python+%26+Django+Developer;Backend+Engineering+%26+REST+APIs;Full-Stack+Web+Development;Frontend+Engineering+%26+UI%2FUX;Building+Digital+Products+with+Purpose" alt="Developer introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=700&lines=Python+%26+Django+Developer;Backend+Engineering+%26+REST+APIs;Full-Stack+Web+Development;Frontend+Engineering+%26+UI%2FUX;Building+Digital+Products+with+Purpose" alt="Developer introduction" />
 
   <br/><br/>
 
-
-  <br/><br/>
 
   <h3>BUILD WITH PURPOSE. DESIGN WITH INTENTION.</h3>
 
