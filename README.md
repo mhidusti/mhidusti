@@ -12,15 +12,6 @@
 
   <br/><br/>
 
-  <a href="https://github.com/mhidusti?tab=followers">
-    <img src="https://img.shields.io/github/followers/mhidusti?style=flat&label=FOLLOWERS&labelColor=111318&color=8B9EFF" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/mhidusti?tab=repositories">
-    <img src="https://img.shields.io/badge/OPEN%20SOURCE-EXPLORER-111318?style=flat&labelColor=111318&color=9BE7C4" alt="Open source"/>
-  </a>
-  <a href="mailto:mhidusti@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-LET'S%20CONNECT-111318?style=flat&labelColor=111318&color=E5C6FF" alt="Contact"/>
-  </a>
 
   <br/><br/>
 
